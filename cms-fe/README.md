@@ -7,8 +7,8 @@
 ### 运行命令
 
 ```
-git clone git clone https://github.com/lzc1220/-.git
-cd final/fe
+git clone git clone git@github.com:lzc1220/background_management_system.git
+cd background_management_system/cms-fe
 
 npm install
 

@@ -8,8 +8,8 @@
 运行命令
 
 ```
-git clone https://github.com/lzc1220/-.git
-cd final/server
+git clone git@github.com:lzc1220/background_management_system.git
+cd background_management_system/cms-be
 
 npm install
 
